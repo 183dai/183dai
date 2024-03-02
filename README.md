@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @183dai
+- 👋 Hi, I’m daichi 
 - 👀 I’m interested in computer science :)
 - 🌱 I’m currently learning coding ( python )
 - 💞️ I’m looking to collaborate on ...
